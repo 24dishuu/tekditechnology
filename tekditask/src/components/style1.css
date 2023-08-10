@@ -1,0 +1,57 @@
+.todo{
+    margin: auto;
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin-top: 20px;
+    height: auto;
+    width: 500px;
+    border-radius: 10px;
+    justify-content: space-around;
+
+}
+
+.timer{
+    margin: auto;
+    text-align: center;
+    background-color:cadetblue;
+    margin-top: 20px;
+    height: auto;
+    width: 500px;
+    border-radius: 10px;
+    justify-content: space-around;
+
+}
+.form{
+    margin: auto;
+    text-align: center;
+    background-color:chocolate;
+    margin-top: 20px;
+    height: auto;
+    width: 500px;
+    border-radius: 10px;
+    justify-content: space-evenly;
+
+}
+.fetch{
+    background-color: black;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20px;
+    /* color: white; */
+    /* text-align: center; */
+}
+.fetch h1{
+    color: white;
+    text-align: center;
+    
+}
+.map{
+    background-color: darkgray;
+    border: solid;
+    border-radius: 10px;
+    justify-items: center;
+    margin-top: 120px;
+    padding:20px;
+}

@@ -1,0 +1,17 @@
+.home{
+    margin: auto;
+    margin-top: 20px;
+    width: 500px;
+    height: 500px;
+    background-color: cornflowerblue;
+    border-radius: 20px;
+    text-align: center;
+}
+.navbar{
+    margin: 10px;
+    padding: 20px;
+   background-color:rgb(89, 140, 111); 
+   display: flex;
+   justify-content: space-around;
+   color: black;
+}
